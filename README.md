@@ -1,2 +1,3 @@
-# Website_Rittman_Lab
+<h1 align="center">Dementia Informatics Lab</h1>
+<p align="center">
 
