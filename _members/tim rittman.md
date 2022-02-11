@@ -1,6 +1,6 @@
 ---
 name: Tim Rittman
-image: 
+image: Tim.JPG
 description: Senior Clinical Research Fellow
 role: pi
 aliases:

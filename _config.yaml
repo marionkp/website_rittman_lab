@@ -6,16 +6,16 @@ description: Our lab website
 logo: images/logo.jpg
 header: images/backgroundtop.jpg
 footer: images/backgroundtop.jpg
-baseurl: /dementia-informatics-lab
+baseurl: /website_rittman_lab
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: tr332@medschl.cam.ac.uk
+  google-scholar: Tim Rittman
+  github: our-lab
+  twitter: ourLabHandle
+  instagram: ourLabHandle
+  youtube: ourLabChannel
 
 ### advanced settings
 

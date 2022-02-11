@@ -4,29 +4,13 @@ title: Home
 
 # Welcome to the Dementia Informatics Lab!
 
-Thanks for checking out our website. We are a .... and work on etc.. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Thanks for checking out our website. The Dementia Informatics lab is based at the University of Cambridge. We seek to understand how dementia affects the whole brain, using a combination of brain imaging, pathology data, genetic? and cognitive testing.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner1.jpg" %}
 
 {% include section.html %}
 
@@ -57,14 +41,14 @@ We work on many different projects including basic, translational, clinical tria
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/QMINMC_logo.png"
   link="resources"
   headline="Our Resources"
   text=text
 %}
 
 {% capture text %}
-We are a very diverse and friendly team, include additional text in the future
+We are a friendly team, include additional text in the future. Find out what everyone is working on. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 [Meet our team &nbsp;→](team)
 {:.center}
@@ -77,3 +61,4 @@ We are a very diverse and friendly team, include additional text in the future
   headline="Our Team"
   text=text
 %}
+
