@@ -28,29 +28,29 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/PSPA.jpg"
-  link1="https://pspassociation.org.uk/"
-  tooltip1="Cool Foundation"
+  image1="images/NHS.jpg"
+  link1="https://www.hra.nhs.uk/"
+  tooltip1="Funder"
 
-  image2="images/ukri.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/PSPa.jpg"
+  link2="https://pspassociation.org.uk/"
+  tooltip2="Funder"
 
   image3="images/wellcome.png"
   link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  tooltip3="Funder"
 
-  image4="images/NHS.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  image4="images/ukri.jpg"
+  link4="https://pspassociation.org.uk/"
+  tooltip4="Funder"
 
   image5="images/james.png"
   link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  tooltip5="Funder"
 
   image6="images/ARUK.jpg"
   link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  tooltip6="Funder"
 %}
 
 {% include section.html %}

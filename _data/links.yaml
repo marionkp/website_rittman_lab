@@ -74,17 +74,6 @@ facebook:
   tooltip: Facebook
   link: https://facebook.com/$LINK
 
-instagram:
-  icon: fab fa-instagram
-  text: Instagram
-  tooltip: Instagram
-  link: https://instagram.com/$LINK
-
-youtube:
-  icon: fab fa-youtube
-  text: YouTube
-  tooltip: YouTube
-  link: https://youtube.com/$LINK
 
 linkedin:
   icon: fab fa-linkedin
@@ -106,11 +95,6 @@ preprint:
   tooltip: Preprint
   link: $LINK
 
-manubot:
-  icon: manubot-logo.svg
-  text: Manubot
-  tooltip: Manubot
-  link: $LINK
 
 # software
 

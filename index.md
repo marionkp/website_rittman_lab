@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner1.jpg" %}
+{% include banner.html image="images/banner1.jpg"%}
 
 {% include section.html %}
 
