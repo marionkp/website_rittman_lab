@@ -68,12 +68,6 @@ twitter:
   tooltip: Twitter
   link: https://twitter.com/$LINK
 
-facebook:
-  icon: fab fa-facebook
-  text: Facebook
-  tooltip: Facebook
-  link: https://facebook.com/$LINK
-
 
 linkedin:
   icon: fab fa-linkedin
@@ -81,7 +75,7 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$LINK
 
-# publications
+# publications + preprint
 
 journal:
   icon: far fa-newspaper
@@ -96,7 +90,7 @@ preprint:
   link: $LINK
 
 
-# software
+# software, not in use
 
 docs:
   icon: fas fa-book
