@@ -12,14 +12,12 @@ baseurl: /website_rittman_lab
 links:
   email: tr332@medschl.cam.ac.uk
   google-scholar: Tim Rittman
-  github: our-lab
-  twitter: ourLabHandle
-  instagram: ourLabHandle
-  youtube: ourLabChannel
+  github: to-add
+  twitter: to-add
 
-### advanced settings
+### other settings
 
-# automatic citations
+# in progress potential automatic citations
 auto-cite:
   plugins:
     - name: sources
