@@ -1,7 +1,7 @@
 - name: The QMIN-MC study
   group: featured
   image: images/QMINMC_logo.png
-  link: _tools/QMINMC.html
+  link: QMIN-MC
   description: The Quantitative MRI in NHS Memory Clinics aims to build a cohort of real world data for the development and testing of Artificial Intelligence and Machine Learning to help with diagnosis and prognosis in dementia.
 
 - name: Maybrain

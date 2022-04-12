@@ -46,7 +46,7 @@ defaults:
   - scope:
       type: "tools"
     values:
-      layout: tools
+      layout: default
 
 # collections
 collections:
