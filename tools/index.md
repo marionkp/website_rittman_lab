@@ -13,6 +13,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## Featured 
+## Featured
 
-{% include list.html data="tools" %} 
+{% include list.html component="card" data="tools" filters="group: featured" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="tools" filters="group: more" style="small" %}
