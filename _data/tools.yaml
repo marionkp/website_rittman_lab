@@ -1,0 +1,12 @@
+- name: The QMIN-MC study
+  group: featured
+  image: images/QMINMC_logo.png
+  link: _tools/QMINMC.html
+  description: The Quantitative MRI in NHS Memory Clinics aims to build a cohort of real world data for the development and testing of Artificial Intelligence and Machine Learning to help with diagnosis and prognosis in dementia.
+
+- name: Maybrain
+  group: more
+  image: images/code.jpg
+  link: https://github.com/RittmanResearch/maybrain
+  description: A python library for graph based connectivity of neuroimaging analysis, built on networkx and the python version of the brain connectivity toolbox. It can also integrate the Allen Brain atlas for gene express-connectivity analysis.
+  repo: https://github.com/RittmanResearch/maybrain
