@@ -42,11 +42,6 @@ defaults:
       type: "posts"
     values:
       layout: post
-  # markdown files in /_tools
-  - scope:
-      type: "tools"
-    values:
-      layout: default
 
 # collections
 collections:
